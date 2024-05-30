@@ -44,7 +44,8 @@ m bacon
 Credits
 ===========
 
-- LmoDroid
-- LeafOS
-- Radek Błędowski
-- Игорь Ч (Igor121)
+- LMODroid (Base ROM)
+- LeafOS (QS, Adblock and other changes)
+- Radek Błędowski (Logo)
+- Igor121 (Wallpaper)
+- Phhusson (Emotional support and helping with issues)
