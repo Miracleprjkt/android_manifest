@@ -1,4 +1,4 @@
-AmogOS Rom
+amogOS Rom
 ===========
 
 Getting started
