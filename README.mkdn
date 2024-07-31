@@ -28,7 +28,7 @@ export GAPPS=false
 unset GAPPS
 
 # maintainer flag, replace $yourName with your name
-export AMOGOS_MAINTAINER=$yourName
+export AMOGOS_MAINTAINER="yourName"
 ```
 
 To start the build you should run the following commands.
